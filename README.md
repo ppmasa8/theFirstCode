@@ -1,0 +1,5 @@
+# theFirstCode
+
+○fizzbuzz
+
+×bubble sort

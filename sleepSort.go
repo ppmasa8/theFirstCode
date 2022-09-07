@@ -33,9 +33,9 @@ func sortAndPrint(a []int) {
 	fmt.Println(res)
 }
 
-func main(){
+func main() {
 	sortAndPrint([]int{1})
-	sortAndPrint([]int{2,1})
-	sortAndPrint([]int{5,4,2,3,1})
-	sortAndPrint([]int{2,1,1,2})
+	sortAndPrint([]int{2, 1})
+	sortAndPrint([]int{5, 4, 2, 3, 1})
+	sortAndPrint([]int{2, 1, 1, 2})
 }
